@@ -1,0 +1,46 @@
+header{
+    position:relative;
+}
+.headproduct a{
+    color: #092337;
+    transition: 2s ease;
+    text-shadow: 2px 2px gray;
+}
+
+.headproduct a:hover{
+    font-weight: 700;
+}
+
+.prodContainer{
+    border: 1px solid #092337;
+    border-style: groove;
+    border-radius: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 150px;
+    padding: 70px;
+}
+
+.prodimg img{
+    width: 18vw;
+    height: 55vh;
+    min-width: 250px;
+    padding: 10px 12px;
+    border: 1px solid #092337;
+    border-radius: 25px;
+    cursor: pointer;
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.2);
+    margin: 30px;
+    transition: 0.2s ease;
+    position: relative;
+
+}
+
+.proddes{
+    display: flex;
+    flex-direction: column;
+}
+
+.prodes  h1{[
+    
+]}
